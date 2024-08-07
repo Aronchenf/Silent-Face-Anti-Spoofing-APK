@@ -1,3 +1,5 @@
-该项目为[小视科技](https://www.minivision.cn/)的静默活体检测算法在安卓平台的部署代码。
+## 原项目为[小视科技](https://www.minivision.cn/)的静默活体检测算法在安卓平台的部署代码。
+现为适配android15 中16kb页面大小，特此升级opencv版本与ncnn的版本
+- opencv 3.4.2
+- ncnn 20220420
 
-<img src="https://github.com/minivision-ai/Silent-Face-Anti-Spoofing/blob/master/images/demo.gif" width="300" height="400"/>
