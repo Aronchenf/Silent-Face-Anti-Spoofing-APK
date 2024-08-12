@@ -1,3 +1,4 @@
 rootProject.name='LiveBodyExample'
 include ':app'
 include ':engine'
+include ':aisllibrary'

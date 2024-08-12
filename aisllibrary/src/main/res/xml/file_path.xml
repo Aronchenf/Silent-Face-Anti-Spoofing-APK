@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--<external-path path="Android/data/com.htzqipad/" name="files_root" />-->
+    <root_path path="" name="root"/>
+    <files-path
+        name="files"
+        path="."/>
+    <cache-path
+        name="cache"
+        path="."/>
+    <external-path
+        name="external"
+        path="."/>
+    <external-files-path
+        name="name"
+        path="path"/>
+    <external-cache-path
+        name="name"
+        path="path"/>
+</paths>

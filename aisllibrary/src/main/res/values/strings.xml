@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">AISLLibrary</string>
+    <string name="notice">即将由我司AI自助语音播报与您进行简短的视频确认，请您做好以下准备。</string>
+    <string name="znjz">智能双录</string>
+    <string name="rgjz">人工见证</string>
+    <string name="rlsb">人脸识别</string>
+    <string name="htsb">活体识别</string>
+    <string name="splz">视频录制</string>
+    <string name="cxznjz">重新录制</string>
+    <string name="rgspjz">确认提交</string>
+    <string name="answer">请回答</string>
+    <string name="crashTip">很抱歉,应用出现异常,请您稍后再试</string>
+    <string name="jsonParseTip">入参解析出现异常,请稍后重试</string>
+    <string name="sourceGetError">资源文件加载出错,请稍后重试</string>
+    <string name="jsonParseError">网络请求入参解析失败</string>
+
+    <string name="selected">&#xeb70;</string>
+    <string name="unSelected">&#xeb71;</string>
+    <string name="failTip">&#xe6a6;</string>
+    <string name="recorder">&#xe6a5;</string>
+    <string name="voice">&#xe6a4;</string>
+    <string name="tip">&#xed8f;</string>
+    <string name="back">&#xe6a3;</string>
+    <string name="right">&#xe6a1;</string>
+    <string name="warn">\ue6a2</string>
+</resources>

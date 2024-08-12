@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="gallery_folder_bg">#88FFFFFF</color>
+    <color name="gallery_text_black">#FF333333</color>
+    <color name="gallery_text_gray">#FF999999</color>
+    <color name="gallery_separation">#FFDCDCDC</color>
+    <color name="gallery_photo_mask">#88000000</color>
+    <color name="gallery_blue">#0171c0</color>
+    <color name="white">#ffffff</color> <!-- 白色 -->
+    <color name="gray">#808080</color> <!-- 灰色 -->
+    <color name="black">#000000</color> <!-- 黑色 -->
+    <color name="lightgray1">#eaeaea</color>
+    <color name="preview_mock">#9a000000</color>
+    <color name="color_000000">#000000</color>
+    <color name="color_afff">#afff</color>
+    <color name="bg_dialog">#00ffffff</color>
+    <color name="scancolor">#D81B60</color>
+    <color name="redtitle">#2351BA</color>
+    <color name="subColor">#E65A28</color>
+    <!-- 透明 -->
+    <color name="clear">#00000000</color>
+    <color name="line_default_color">#e5e5e5</color>
+
+    <color name="action_sheet_blue">#037BFF</color>
+    <color name="statusbar">#0e0e1a</color>
+
+    <color name="colorPrimary">#2196F3</color>
+    <color name="colorPrimaryDark">#1E88E5</color>
+    <color name="colorAccent">#dc572e</color>
+    <color name="colorPrimaryBlack">#FF2B2B2B</color>
+    <color name="albumFontDark">#333333</color>
+    <color name="albumFontLight">#FFF</color>
+    <color name="background">#F5F5F5</color>
+    <color name="textColor">#666666</color>
+
+    <!-- 进度条-->
+    <color name="no1_gray_light">#e2e2e2</color>
+    <color name="no2_orange">#2351BA</color>
+    <color name="no3_white">#ffffff</color>
+    <color name="no4_end">#6683E7</color>
+
+</resources>

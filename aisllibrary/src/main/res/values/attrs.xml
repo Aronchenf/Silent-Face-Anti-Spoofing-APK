@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 自定义监听音量按钮 -->
+    <declare-styleable name="VolumCircleBar">
+        <!--<attr name="recordingColor" format="color" />
+        <attr name="stoppedColor" format="color" />
+        <attr name="centerRes" format="color" />
+        <attr name="startcenterRes" format="reference" />
+        <attr name="blockCount" format="integer" />
+        <attr name="splitAngle" format="integer" />
+        <attr name="stopcenterRes" format="reference" />
+        <attr name="blockColor" format="color" />-->
+        <attr name="recordingColor" format="color"/>
+        <attr name="stoppedColor" format="color"/>
+        <attr name="centerRes" format="reference"/>
+        <attr name="blockCount" format="integer"/>
+        <attr name="splitAngle" format="integer"/>
+    </declare-styleable>
+
+    <declare-styleable name="ArcProgressBar">
+        <attr name="arcDistance" format="integer"/>
+        <attr name="arcBgColor" format="color"/>
+        <attr name="dottedDefaultColor" format="color"/>
+        <attr name="dottedRunColor" format="color"/>
+        <attr name="dottedLineCount" format="integer"/>
+        <attr name="dottedLineWidth" format="integer"/>
+        <attr name="dottedLineHeight" format="integer"/>
+        <attr name="lineDistance" format="integer"/>
+        <attr name="progressMax" format="integer"/>
+        <attr name="progressTextSize" format="integer"/>
+        <attr name="progressDesc" format="string"/>
+        <attr name="arcText" format="string"/>
+    </declare-styleable>
+    <declare-styleable name="ArcProgress">
+        <attr name="borderWidth" format="dimension" />
+        <attr name="unprogresColor" format="color"/>
+        <attr name="progressColor" format="color"/>
+        <attr name="tickWidth" format="dimension"/>
+        <attr name="tickDensity" format="integer"/>
+        <attr name="bgShow" format="boolean"/>
+        <attr name="radius" format="dimension"/>
+        <attr name="arcbgColor" format="color"/>
+        <attr name="degree" format="integer"/>
+        <attr name="arcCapRound" format="boolean"/>
+        <attr name="progressStyle" format="enum">
+            <enum name="tick" value="1"/>
+            <enum name="arc" value="0"/>
+        </attr>
+    </declare-styleable>
+
+    <declare-styleable name="FSGifViewStyle">
+        <attr name="drawablevalue" format="reference" />
+    </declare-styleable>
+    <declare-styleable name="FlashBox">
+        <attr format="color" name="boxColor"/>
+        <attr format="dimension" name="boxStrokeWidth"/>
+        <attr format="color" name="boxShadowColor"/>
+        <attr format="dimension" name="boxShadowWidth"/>
+        <attr format="integer" name="boxAnimDelay"/>
+    </declare-styleable>
+
+
+    <declare-styleable name="downloadProgressBar">
+        <attr name="dptextsize" format="dimension"/>
+    </declare-styleable>
+
+
+    <declare-styleable name="roundedimageview">
+        <attr name="border_thickness" format="dimension" />
+        <attr name="border_inside_color" format="color" />
+        <attr name="border_outside_color" format="color"/>
+    </declare-styleable>
+
+    <declare-styleable name="SpreadView">
+        <!--中心圆颜色-->
+        <attr name="spread_center_color" format="color" />
+        <!--中心圆半径-->
+        <attr name="spread_radius" format="integer" />
+        <!--扩散圆颜色-->
+        <attr name="spread_spread_color" format="color" />
+        <!--扩散间距-->
+        <attr name="spread_distance" format="integer" />
+        <!--扩散最大半径-->
+        <attr name="spread_max_radius" format="integer" />
+        <!--扩散延迟间隔-->
+        <attr name="spread_delay_milliseconds" format="integer" />
+        <attr name="spread_centerRes" format="reference" />
+    </declare-styleable>
+
+
+    <declare-styleable name="CircleProgressView">
+        <attr name="cpvStrokeWidth" format="dimension"/>
+        <attr name="cpvNormalColor" format="color"/>
+        <attr name="cpvProgressColor" format="color"/>
+        <attr name="cpvStartAngle" format="integer"/>
+        <attr name="cpvSweepAngle" format="integer"/>
+        <attr name="cpvMax" format="integer"/>
+        <attr name="cpvProgress" format="integer"/>
+        <attr name="cpvDuration" format="integer"/>
+        <attr name="cpvLabelText" format="string"/>
+        <attr name="cpvLabelTextColor" format="color"/>
+        <attr name="cpvLabelTextSize" format="dimension"/>
+        <attr name="cpvShowLabel" format="boolean"/>
+        <attr name="cpvShowTick" format="boolean"/>
+        <attr name="cpvCirclePadding" format="dimension"/>
+        <attr name="cpvTickSplitAngle" format="integer"/>
+        <attr name="cpvBlockAngle" format="integer"/>
+        <attr name="cpvTurn" format="boolean"/>
+        <attr name="cpvCapRound" format="boolean"/>
+        <attr name="cpvLabelPaddingLeft" format="dimension"/>
+        <attr name="cpvLabelPaddingTop" format="dimension"/>
+        <attr name="cpvLabelPaddingRight" format="dimension"/>
+        <attr name="cpvLabelPaddingBottom" format="dimension"/>
+
+    </declare-styleable>
+
+    <declare-styleable name="CircleProgressBar">
+        <attr name="circleWidth" format="dimension" />
+        <attr name="circleAngle" format="integer" />
+        <attr name="backgroundColor" format="color" />
+        <attr name="titleLabelText" format="string"/>
+        <attr name="titleLabelTextColor" format="color"/>
+        <attr name="titleLabelTextSize" format="dimension"/>
+        <attr name="labelText" format="string"/>
+        <attr name="labelTextColor" format="color"/>
+        <attr name="labelTextSize" format="dimension"/>
+    </declare-styleable>
+
+
+</resources>
